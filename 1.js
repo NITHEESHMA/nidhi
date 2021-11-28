@@ -76,3 +76,5 @@ let ans;
 
 ans = 4 + null;
 console.log(ans);  // 4
+
+console.log('nidhi');
