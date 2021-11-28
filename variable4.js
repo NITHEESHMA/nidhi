@@ -1,0 +1,12 @@
+myVar=175343;
+myFavariteColor='blue';
+iHaveSuperPower=true;
+time=4;
+console.log(myVar);
+console.log(myFavariteColor);
+console.log(iHaveSuperPower);
+console.log(time);
+console.log(typeof myVar);
+console.log(typeof myFavariteColor);
+console.log(typeof iHaveSuperPower);
+console.log(typeof time);

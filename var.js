@@ -1,0 +1,17 @@
+//*myvar=1999;
+//lightson=true;
+//myfavoritescolor='red';
+//console.log(myvar);
+//console.log(lightson);
+//console.log(myfavoritescolor);
+var myvar=1999;
+var lightson=true;
+var myfavoritescolor='red';
+console.log(myvar);
+console.log(lightson);
+console.log(myfavoritescolor);
+var x;
+console.log(typeof x);
+console.log(typeof myvar);
+console.log(typeof lightson);
+console.log(typeof myfavoritescolor);
